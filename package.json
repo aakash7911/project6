@@ -1,0 +1,21 @@
+{
+  "name": "aerowise-ai",
+  "version": "1.0.0",
+  "description": "GenAI-Powered Urban Air Quality Assistant for Winter Smog Navigation, Low-Emission Routines & Clean Air Living",
+  "main": "server.py",
+  "scripts": {
+    "start": "python3 server.py",
+    "serve": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "genai",
+    "air-quality",
+    "smog-assistant",
+    "urban-resilience",
+    "prompt-wars",
+    "gemini-api",
+    "clean-air"
+  ],
+  "author": "Akash Raj & Team",
+  "license": "MIT"
+}
