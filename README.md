@@ -74,8 +74,8 @@ start index.html
 ### Option 2: Python Local Server
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/aerowise-ai.git
-cd aerowise-ai
+git clone https://github.com/aakash7911/project6.git
+cd project6
 
 # Start the local server
 python3 server.py
